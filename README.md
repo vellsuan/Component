@@ -11,6 +11,7 @@ mulLinkAgeArray：是你自己定制的数据，如果字段和上面默认的�
 <linkcode @val="父组件获取子组件的方法，三个参数" :districtCode="获取的三级code"  :mulLinkAgeArray="data" ></linkcode>
 
 data的默认格式
+```
 [
           {
             'name': '北京',
@@ -25,6 +26,9 @@ data的默认格式
                     'id': '001001001001'
                   }],
                   }
-								]
-							}
-						]
+		]
+	}
+]
+``` 
+
+					
